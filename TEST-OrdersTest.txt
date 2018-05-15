@@ -1,0 +1,43 @@
+Testsuite: OrdersTest
+Tests run: 40, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.041 sec
+
+Testcase: testCalculateTotalMaxValue took 0.002 sec
+Testcase: testCalculateTotalSalesTaxNYNextDay took 0 sec
+Testcase: testCalculateTotalEdgeCaseNewYork took 0 sec
+Testcase: testCalculateTotalCheckForOverflow took 0 sec
+Testcase: testCalculateTotalUSTerritory took 0 sec
+Testcase: testCalculateTotalEmptyString took 0 sec
+Testcase: testCalculateTotalSalesTaxNewYorkNextDay took 0 sec
+Testcase: testCalculateTotalSalesTaxCACNextDay took 0 sec
+Testcase: testCalculateTotalSalesTaxCaliforniaStandard took 0 sec
+Testcase: testCalculateTotalEdgeCaseAnyState2 took 0 sec
+Testcase: testCalculateTotalNegativeInfinity took 0.001 sec
+Testcase: testCalculateTotalEdgeCaseIllinois took 0 sec
+Testcase: testCalculateTotalSalesTaxNewYorkStandard took 0.001 sec
+Testcase: testCalculateTotalEdgeCaseCA took 0 sec
+Testcase: testCalculateTotalEdgeCaseIL took 0 sec
+Testcase: testCalculateTotalEdgeCaseNY took 0 sec
+Testcase: testCalculateTotalNegativeValue took 0 sec
+Testcase: testCalculateTotalNullString took 0 sec
+Testcase: testCalculateTotalSalesTaxCAStandard took 0 sec
+Testcase: testCalculateTotalInvalidState took 0 sec
+Testcase: testCalculateTotalAnyStateStandard took 0 sec
+Testcase: testCalculateTotalEdgeCaseIllinois2 took 0 sec
+Testcase: testCalculateTotalEdgeCaseIllinois3 took 0 sec
+Testcase: testCalculateTotalEdgeCaseIllinois4 took 0 sec
+Testcase: testCalculateTotalAnyStateNextDay2 took 0 sec
+Testcase: testCalculateTotalNaN took 0 sec
+Testcase: testCalculateTotalSalesTaxILStandard took 0 sec
+Testcase: testCalculateTotalMinValue took 0.001 sec
+Testcase: testCalculateTotalCheckForUnderflow took 0 sec
+Testcase: testCalculateTotalPositiveInfinity took 0 sec
+Testcase: testCalculateTotalSalesTaxIllinoisNextDay took 0 sec
+Testcase: testCalculateTotalIsZero took 0 sec
+Testcase: testCalculateTotalEdgeCaseAnyState took 0 sec
+Testcase: testCalculateTotalAnyStateNextDay took 0 sec
+Testcase: testCalculateTotalSalesTaxIllinoisStandard took 0 sec
+Testcase: testCalculateTotalSalesTaxILNextDay took 0 sec
+Testcase: testCalculateTotalSalesTaxNYStandard took 0 sec
+Testcase: testCalculateTotalSalesTaxCaliforniaCNextDay took 0 sec
+Testcase: testCalculateTotalEmptyString2 took 0 sec
+Testcase: testCalculateTotalEdgeCaseCalifornia took 0 sec
